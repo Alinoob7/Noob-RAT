@@ -1,7 +1,7 @@
 
-#                 Noob(R-A-T)##
+#             Noob(R-A-T)
 
-                 MODiFY By Ali Noob##
+                 MODiFY By Ali Noob
                  (Y) DEYLPER
    #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
  
