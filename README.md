@@ -1,10 +1,8 @@
 <p align="center">
-<img src='img/cn.png' style="height:100px;width:100px;" >
-</p>
-<h1 align=center>Ali(R-A-T)</h1>
-### MODiFY By Ali Noob
-###### (Y)#### DEYLPER
-#### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
+<h1>< align=center>Ali(R-A-T)</h1>
+        MODiFY By Ali Noob
+      ###### (Y)#### DEYLPER
+   #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
  
 ## Features
  - Read all the files of Internal Storage
@@ -91,8 +89,8 @@
 
 ## DISCLAIMER
 <p align="center">
- TO BE USED FOR EDUCATIONAL PURPOSES ONLY): MEKO YA B PYTA TM LOG KBI EDUCATIONAL PERPYS KE LIYEA USE NI KRO GAY😅
- Baki KISSI KO USE KRTE HOWAY KOI B ISSU HOTA HE TO 🇮🇳 B FYRK NI PYRTA😶
+ TO BE USED FOR EDUCATIONAL PURPOSES ONLY): MEKO YA B PYTA TM LOG KBI EDUCATIONAL PERPYS KE LIYEA USE NI KRO GAYðŸ˜…
+ Baki KISSI KO USE KRTE HOWAY KOI B ISSU HOTA HE TO ðŸ‡®ðŸ‡³ B FYRK NI PYRTAðŸ˜¶
 </p>
 
 
